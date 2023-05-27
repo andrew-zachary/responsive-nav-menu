@@ -1,5 +1,5 @@
 {
-  "name": "responsive-nav-menu",
+  "name": "responsive-navigation-menu",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -11,7 +11,6 @@
   "devDependencies": {
     "autoprefixer": "^10.4.14",
     "postcss": "^8.4.23",
-    "sass": "^1.62.1",
     "tailwindcss": "^3.3.2",
     "vite": "^4.3.2"
   },
